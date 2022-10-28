@@ -1,6 +1,6 @@
 # KGChess v2.0
 
-## Team 20 : King's Gambit
+## King's Gambit Chess Game
 
 A chess game with online support coded in C for EECS 22L group project. Features include PvP, PvAi, saved profiles and online capabilities. 
 
@@ -25,10 +25,3 @@ Password:
 ```kingsgambit```
 
 
-## The team
-
-* Tan Huynh
-* Samuel Briones-Plascencia
-* Larrenz Carino
-* Thanh Tran
-* Erick Mercado
